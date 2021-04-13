@@ -4,7 +4,7 @@
 // console.log(firstLetter('Labas'));
 // console.log(firstLetter('Rytas'));
 
-// skaiciu vidurkis sarase (a.k.a pazymiu vidurkis)
+// skaiciu vidurkis sarase (a.k.a pazymiu vidurkis);
 
 const list = [10,8,2,4,6];
 
